@@ -1,0 +1,8 @@
+----- RECEIPT -----
+Date/Time : 2026-08-02 14:03:21
+Product   : dal chana (Grocery)
+Qty Sold  : 3
+Unit Price: 160.00
+Total     : 480.00
+Remaining Stock: 0
+

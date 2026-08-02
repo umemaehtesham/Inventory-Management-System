@@ -1,0 +1,2 @@
+General|1|bottle|3|200|
+Grocery|2|dal chana|0|160|25-9-2027
